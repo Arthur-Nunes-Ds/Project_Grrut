@@ -1,1 +1,3 @@
+#talvez não usaremos -> bcrypt==4.3.0
 mysql-connector-python==9.4.0
+passlib==1.7.4
